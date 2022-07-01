@@ -26,7 +26,7 @@ Alguns passos terão requerimentos vagos ou erros. Não há resposta certa ou er
 
 O projeto deve usar controle de versão no git e armazenado/subido para o Github em um repositório privado na sua conta.
 
-Quando terminar o desafio, convide o usuário `user-XXX-globo` para colaborador do seu repositório do desafio para que possamos fazer a avaliação.
+Quando terminar o desafio, convide o usuário `mbergo` para colaborador do seu repositório do desafio para que possamos fazer a avaliação.
 
 #
 
@@ -356,6 +356,6 @@ PRIMARY​ KEY​ (​`product_id`​, `name`​)
 
 ## Dúvidas
 
-Quaisquer dúvidas que você venha a ter, abra uma issue que responderemos assim que marcado o `user-XXX-globo` na mesma.
+Quaisquer dúvidas que você venha a ter, abra uma issue que responderemos assim que marcado o `mbergo` na mesma.
 
 Boa sorte.

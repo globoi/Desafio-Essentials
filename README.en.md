@@ -353,6 +353,6 @@ PRIMARY​ KEY​ (​`product_id`​, `name`​)
 
 ## Doubts
 
-Any questions you may have, open an issue and assign to our `user-XXX-globo`, that we will answer as soon as possible.
+Any questions you may have, open an issue and assign to our `mbergo`, that we will answer as soon as possible.
 
 Godspeed!
