@@ -25,13 +25,13 @@ Some steps will have vague requirements or errors. There is no right or wrong an
 
 The project must use version control in git and stored/uploaded to Github in a private repository in your account.
 
-When you finish the challenge, invite the `user-XXX-globo` user to be a contributor to your challenge repository so we can take the assessment.
+When you finish the challenge, invite the `mbergo` user to be a contributor to your challenge repository so we can take the assessment.
 
 #
 
 ## The task
 
-Using Go, Python3 or NodeJS, your task will be to implement a REST API that CRUDs products stored in a MySQL 5.7 database.
+Using Go, Python3 or NodeJS or Rails your task will be to implement a REST API that CRUDs products stored in a MySQL 5.7 database.
 
 The API will have to validate the input data. Example: SKU is unique in POST and PUT.
 
