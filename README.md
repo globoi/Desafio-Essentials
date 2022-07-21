@@ -32,7 +32,7 @@ Quando terminar o desafio, convide o usuário `mbergo` para colaborador do seu r
 
 ## A tarefa
 
-Usando Go, Python3 ou NodeJS, sua tarefa, será implementar um API REST que faça CRUD em produtos armazenados em um banco de dados MySQL 5.7.
+Usando Go, Python3 ou NodeJS ou Rails sua tarefa, será implementar um API REST que faça CRUD em produtos armazenados em um banco de dados MySQL 5.7.
 
 A API terá que fazer a validação dos dados de entrada. Exemplo: SKU é único em POST e PUT.
 
