@@ -342,6 +342,9 @@ PRIMARY​ KEY​ (​`product_id`​, `name`​)
 
 *   O projeto deve rodar utilizando apenas 1 comando (assumindo que a pessoa já tenha o minikube instalado e rodando).
 
+*   A submissão do desafio será feita com você criando um repo privado em sua conta e adicionando o usuário `mbergo` para acesso.
+    O link do seu repositório deve ser postado no issues do desafio.
+
 ## Critério de avaliação
 
 -   **Organização do código**: Separação de módulos - código app e infra.
